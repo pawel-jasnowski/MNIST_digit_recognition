@@ -1,6 +1,6 @@
 # MNIST_digit_recognition
 
-MNIST digit recognition with few neural networks.
+MNIST digit recognition with few neural networks
 
 # Three different neural networks
 
