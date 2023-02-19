@@ -2,7 +2,7 @@
 
 MNIST digit recognition with few neural networks.
 
-# Three different neural networks:
+# Three different neural networks
 
   - SMALL with one hidden layer and only 8 unints
   - BASIC with one dden layer and 128 units
