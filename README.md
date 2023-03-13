@@ -1,15 +1,15 @@
-# MNIST Digit Recognition
+# MNIST Digit Recognition 
 
 MNIST digit recognition with few neural networks
 
-# Three different neural networks
+## Three different neural networks
 
   - SMALL with one hidden layer and only 8 units
   - BASIC with one hidden layer and 128 units
   - BIG with two hidden layer and 256/512 units 
 
-# Comparing all three networks
+## Comparing all three networks
 
-# Building "best" neural network 
+## Building "best" neural network 
   - using checkpoints and early-stopping
   
