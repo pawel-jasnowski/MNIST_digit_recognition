@@ -4,8 +4,8 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 
-## Comparing all three networks
+## General info
 
-## Building "best" neural network 
+## Technologies
   - using checkpoints and early-stopping
   
