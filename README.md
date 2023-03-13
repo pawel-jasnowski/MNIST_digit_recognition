@@ -1,8 +1,8 @@
 # MNIST Digit Recognition
 
 ## Table of contents
-* [General info]
-* [Technologis]
+* [General info](#general-info)
+* [Technologies](#technologies)
 
 ## Comparing all three networks
 
