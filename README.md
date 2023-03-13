@@ -1,4 +1,4 @@
-# MNIST_digit_recognition
+# MNIST Digit Recognition
 
 MNIST digit recognition with few neural networks
 
