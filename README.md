@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup and running](#setup-and-running)
+* [Setup](#setup)
 
 ## General info
 
@@ -18,6 +18,6 @@ MNIST Digit Recognition is like 'Hello world' in Machine Learning. This is my at
   - Numpy
   - Matplotlib
   
- ## Setup and runnig
+ ## Setup
  
  Simple try Jupyter and play around
