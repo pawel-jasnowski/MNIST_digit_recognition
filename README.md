@@ -20,4 +20,6 @@ MNIST Digit Recognition is like 'Hello world' in Machine Learning. This is my at
   
  ## Setup
  
+ Intall modules by req.txt
+ 
  Simple try Jupyter and play around
